@@ -1,4 +1,4 @@
-{
+[
       "_id": 1,
       "title": "Long sleeve Jacket",
       "isNew": true,
@@ -317,3 +317,4 @@
       ],
       "rating": 5
     }
+]
